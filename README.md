@@ -52,7 +52,6 @@ while Vrai:
     recherche = demander('Entrez un terme de recherche')
     google_recherche = google(recherche)
     terminal.write('start chrome {}'.format(google_recherche))
-
 ```
 
 ## Installation
