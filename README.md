@@ -34,9 +34,10 @@ while Vrai:
 
     if mot_de_passe_bdd == mot_de_passe_question:
         afficher(couleur.VERT + couleur.GRAS + 'Bienvenue !' + couleur.FIN)
-
+        break
+    
     else:
-        afficher(couleur.RED + couleur.GRAS + 'Mot de passe incorrect !' + couleur.FIN)
+        afficher(couleur.ROUGE + couleur.GRAS + 'Mot de passe incorrect !' + couleur.FIN)
 ```
 
 Voici un réelle exemple.
