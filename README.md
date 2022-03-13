@@ -1,20 +1,19 @@
 # Pyfrench
-==========
 
 > Une bibliothèque python de n'importe quelle version qui traduit ajoute la même fonctionnalité python au module.
 
 ## Pourquoi ?
 
-> Python est un excellent langage de programmation mais il est en anglais ce qui peut être un problème pour les étudiants qui ne sont pas très bilingues.
-> C'est pourquoi j'ai créé ce module.
+Python est un excellent langage de programmation mais il est en anglais ce qui peut être un problème pour les étudiants qui ne sont pas très bilingues.
+C'est pourquoi j'ai créé ce module.
 
 ## Aujourd'hui
 
-> Le projet progresse mais n'est pas terminé.
-> Si vous êtes intéressés, je vous laisse mon discord (Artic#6377).
+Le projet progresse mais n'est pas terminé.
+Si vous êtes intéressés, je vous laisse mon discord (Artic#6377).
 
-> Pyfrench facilite aussi le Python, il ne se contente pas de le traduire.
-> Il peut par exemple faire des recherches sur YouTube ou Google, ou un exécuteur de commandes.
+Pyfrench facilite aussi le Python, il ne se contente pas de le traduire.
+Il peut par exemple faire des recherches sur YouTube ou Google, ou un exécuteur de commandes.
 
 ## Komen sa fonksionne ?
 
@@ -25,7 +24,7 @@
 C'est un exemple très simple de système de mot de passe.
 
 ```
-from pyfrench import *
+from pyfrench.console import *
 
 mot_de_passe_bdd = demander('Entrez un mot de passe')
 
@@ -44,7 +43,7 @@ Voici un réelle exemple.
 Ici, un programme qui lance Google Chrome avec les termes que vous avez recherchés.
 
 ```
-from pyfrench import *
+from pyfrench.console import *
 
 terminal.write('cls')
 
@@ -58,7 +57,7 @@ while Vrai:
 
 ## Installation
 
-> Attention, j'ai besoin de TOUTE votre attention,
+Attention, j'ai besoin de TOUTE votre attention,
 
 Il vous faut éxecuter la commande dans un terminal :
 
