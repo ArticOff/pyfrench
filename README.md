@@ -15,9 +15,9 @@ Si vous êtes intéressés, je vous laisse mon discord (Artic#6377).
 Pyfrench facilite aussi le Python, il ne se contente pas de le traduire.
 Il peut par exemple faire des recherches sur YouTube ou Google, ou un exécuteur de commandes.
 
-## Komen sa fonksionne ?
+## Comment ça marche ?
 
-> Vous avez juste besoin de Python, rien d'autre.
+Vous avez juste besoin de Python, rien d'autre.
 
 ## Exemples
 
