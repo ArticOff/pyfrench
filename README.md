@@ -60,8 +60,16 @@ Attention, j'ai besoin de TOUTE votre attention,
 
 Il vous faut éxecuter la commande dans un terminal :
 
+### Avec PIP
+
 ```
 pip install pyfrench
+```
+
+### Sans PIP
+
+```
+py -3 -m pip install -U pyfrench
 ```
 
 C'est tout :)
