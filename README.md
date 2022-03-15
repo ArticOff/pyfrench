@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/pypi/v/pyfrench.svg
+    :target: https://pypi.python.org/pypi/pyfrench
+    :alt: PyPi version info
+
 # Pyfrench
 
 > Une bibliothèque python de n'importe quelle version qui traduit ajoute la même fonctionnalité python au module.
