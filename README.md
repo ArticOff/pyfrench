@@ -1,6 +1,4 @@
-.. image:: https://img.shields.io/pypi/v/pyfrench.svg
-    :target: https://pypi.python.org/pypi/pyfrench
-    :alt: PyPi version info
+![PyPi version info](https://img.shields.io/pypi/v/pyfrench.svg)
 
 # Pyfrench
 
