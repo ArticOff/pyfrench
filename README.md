@@ -1,4 +1,4 @@
-![MIT Licence](https://opensource.org/licenses/MIT)![PyPi version info](https://img.shields.io/pypi/v/pyfrench.svg)
+![MIT Licence](https://warehouse-camo.ingress.cmh1.psfhosted.org/f564a2fa3d89c69619dfabf8a770353094df052f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a776f646465722f707976657273696f6e2d696e666f2e737667)![PyPi version info](https://img.shields.io/pypi/v/pyfrench.svg)
 
 # Pyfrench
 
