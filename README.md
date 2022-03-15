@@ -1,9 +1,4 @@
-![Discord](https://discord.com/api/guilds/903297618728349736/embed.png) ![MIT Licence](https://warehouse-camo.ingress.cmh1.psfhosted.org/f564a2fa3d89c69619dfabf8a770353094df052f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a776f646465722f707976657273696f6e2d696e666f2e737667) <a href="https://badge.fury.io/py/pyfrench"><img src="https://badge.fury.io/py/pyfrench.svg" alt="PyPI version" height="18"></a> Programming Language :: Python
-Programming Language :: Python :: 2.6
-Programming Language :: Python :: 2.7
-Programming Language :: Python :: 3.3
-Programming Language :: Python :: 3.4
-Programming Language :: Python :: 3.5
+<a href="https://discord.gg/GM2wSefRUT"><img src="https://discord.com/api/guilds/903297618728349736/embed.png" alt="Discord" height="18"></a> ![MIT Licence](https://warehouse-camo.ingress.cmh1.psfhosted.org/f564a2fa3d89c69619dfabf8a770353094df052f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a776f646465722f707976657273696f6e2d696e666f2e737667) <a href="https://badge.fury.io/py/pyfrench"><img src="https://badge.fury.io/py/pyfrench.svg" alt="PyPI version" height="18"></a>
 # Pyfrench
 
 > Une bibliothèque python de n'importe quelle version qui traduit ajoute la même fonctionnalité python au module.
