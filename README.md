@@ -1,4 +1,4 @@
-![PyPi version info](https://img.shields.io/pypi/v/pyfrench.svg)
+![MIT Licence](https://opensource.org/licenses/MIT)![PyPi version info](https://img.shields.io/pypi/v/pyfrench.svg)
 
 # Pyfrench
 
