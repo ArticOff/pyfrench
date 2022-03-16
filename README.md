@@ -25,7 +25,7 @@ Vous avez juste besoin de Python, rien d'autre.
 C'est un exemple très simple de système de mot de passe.
 
 ```python
-from pyfrench.console import *
+from pyfrench import couleur, afficher, demander, Vrai
 
 mot_de_passe_bdd = demander('Entrez un mot de passe')
 
@@ -45,7 +45,7 @@ Voici un réelle exemple.
 Ici, un programme qui lance Google Chrome avec les termes que vous avez recherchés.
 
 ```python
-from pyfrench.console import *
+from pyfrench import terminal, Vrai, demander, google
 
 terminal.write('cls')
 
